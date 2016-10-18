@@ -18,7 +18,7 @@
 			<div class="navbar-header">
 
 				<div class="navbar-brand">
-                	<a href="home.php" class="navbutton">QHTC</a>
+                	<a href="index.php" class="navbutton">QHTC</a>
                 </div>
 
 				<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
