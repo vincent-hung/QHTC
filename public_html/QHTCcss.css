@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body{
+	overflow-x:hidden;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.navbar-default .navbar-brand .navbutton {
+	font-family: 'Oswald', sans-serif;
+	font-size:24px;
+	color:#070C57;
+	text-decoration:none;
+}
+.nav.navbar-nav.navbar-right a {
+	font-family: 'Oswald', sans-serif;
+	font-size:24px;
+    color: #070C57;
+}
+
+.navbar-inner {
+    background:transparent;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #800000;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #800000;
+    color:blue;
+}
+
+
+.content{
+	height:100vh;
+	background-color:#800000;
+}
+
+.title{
+	color:white;
+	font-family: 'Oswald', sans-serif;
+	font-size:50px;
+	padding-top:50px;
+}
+
+.subtitle{
+	color:white;
+	font-family: 'Oswald', sans-serif;
+	font-size:30px;
+}
+
+.subtitlecenter{
+	color:white;
+	font-family: 'Oswald', sans-serif;
+	font-size:30px;
+	text-align:center;
+}
+
+.homepagetitle{
+	color:white;
+	font-family: 'Oswald', sans-serif;
+	font-size:50px;
+	padding-top:50px;
+	text-align:center;
+}
+
+.hr{
+    border-color: white;
+    border-width: 1px;
+    max-width: 1000px;
+}
+
+.footer{
+	 height:20vh;
+	 background-color:#000080;
+}
