@@ -31,12 +31,12 @@ body{
 .navbar .navbar-toggle .icon-bar {
     background-color: #800000;
 }
-
+/*
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     background-color: #800000;
     color:blue;
 }
-
+*/
 
 .content{
 	height:100vh;

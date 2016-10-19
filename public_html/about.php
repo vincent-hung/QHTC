@@ -31,10 +31,10 @@
                     
             <div class="collapse navbar-collapse navHeaderCollapse">
                 <ul class="nav navbar-nav navbar-right">
-                   	<li><a href="about.php" class="navbutton" id="button1" >About</a></li>
-                    <li><a href="events.php" class="navbutton" id="button2">Events</a></li>
-                    <li><a href="resources.php" class="navbutton" id="button3">Resources</a></li>
-                    <li><a href="contact.php" class="navbutton" id="button4">Contact</a></li>
+                   	<li><a href="about.php" class="navbutton hvr-underline-from-center" id="button1" >About</a></li>
+                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button2">Events</a></li>
+                    <li><a href="resources.php" class="navbutton hvr-underline-from-center" id="button3">Resources</a></li>
+                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button4">Contact</a></li>
                 </ul>
             </div>
         </div>
