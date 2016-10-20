@@ -19,7 +19,7 @@
 			<div class="navbar-header">
 
 				<div class="navbar-brand">
-                	<a href="index.php" class="navbutton">QHTC</a>
+                	<a href="index.php" class="navbutton"><img src="assets/img/QHTClogo.jpg" alt="QHTC Logo" width="51.36" height="36"></a>
                 </div>
 
 				<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
