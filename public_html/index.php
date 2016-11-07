@@ -44,7 +44,7 @@
 
 	<div class="row content">
 		<div class="col-lg-12 homepagetitle">
-			Welcome to QHTC!
+			Welcome to QHTC
 			<hr class="hr">
 		</div>
 	</div>
