@@ -33,9 +33,10 @@
             <div class="collapse navbar-collapse navHeaderCollapse">
                 <ul class="nav navbar-nav navbar-right">
                    	<li><a href="about.php" class="navbutton hvr-underline-from-center" id="button1" >About</a></li>
-                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button2">Events</a></li>
-                    <li><a href="resources.php" class="navbutton hvr-underline-from-center" id="button3">Resources</a></li>
-                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button4">Contact</a></li>
+                   	<li><a href="team.php" class="navbutton hvr-underline-from-center" id="button2" >Our Team</a></li>
+                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button3">Events</a></li>
+                    <li><a href="sponsorship.php" class="navbutton hvr-underline-from-center" id="button4">Sponsorship</a></li>
+                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button5">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -45,7 +46,6 @@
 	<div class="row content">
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 title">
 			Events
-			<hr class="hr">
 		</div>
 	</div>
 

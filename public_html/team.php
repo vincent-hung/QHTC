@@ -4,7 +4,7 @@
 <meta charset = "UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content = "width=device-width, initial-scale = 1">
-<title>QHTC - Contact</title>
+<title>QHTC - Team</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="assets/css/QHTCcss.css"/>
@@ -45,21 +45,23 @@
 
 	<div class="row content">
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 title">
-			Contact Us
-			<hr class="hr">
+			Our Team
+			<hr class="hr">		
 		</div>
 
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2">
-		Get In Touch
-		Email: 
-		hospitalitytourism@clubs.queensu.ca
-		Find Us On Facebook: 
-		https://www.facebook.com/QHTClub/
-		Location: *Insert Map*
-		Goodes Hall 
-		143 Union Street West
-		Kingston, ON K7L 2P3
+			Team
+			President: Cindy NIe
+			VP Finance: Lucy Li
+			VP Public Relations: Sabrina Leung
+			Sponsorship Coordinators: Iris Zhang, Hannah Wei & Zooni Khosla
+			Events Coordinators: Rupinderjit Cheema, Karoline Sarah Wang &  Claire Currie 
+			Promotions Coordinators: Andy Tran, Yan Wu & Irene Cen
+			Logistics Coordinators: Christopher Zhao & Evgeny Kim
+			IT Coordinators: Carmen Louie 
+			NOTE: EXECS PHOTOS WILL BE UPLOADED SOON 
 		</div>
+
 	</div>
 
 	<div class="row footer">

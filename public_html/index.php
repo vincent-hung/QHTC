@@ -13,7 +13,7 @@
 
 <body>
 <div class="container-fluid">
-	<div class="row">
+	<div class="row landingpagecontent">
 	<div class="navbar navbar-default">
 		<div class="container-fluid">
 			<div class="navbar-header">
@@ -33,24 +33,17 @@
             <div class="collapse navbar-collapse navHeaderCollapse">
                 <ul class="nav navbar-nav navbar-right">
                    	<li><a href="about.php" class="navbutton hvr-underline-from-center" id="button1" >About</a></li>
-                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button2">Events</a></li>
-                    <li><a href="resources.php" class="navbutton hvr-underline-from-center" id="button3">Resources</a></li>
-                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button4">Contact</a></li>
+                   	<li><a href="team.php" class="navbutton hvr-underline-from-center" id="button2" >Our Team</a></li>
+                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button3">Events</a></li>
+                    <li><a href="sponsorship.php" class="navbutton hvr-underline-from-center" id="button4">Sponsorship</a></li>
+                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button5">Contact</a></li>
                 </ul>
             </div>
         </div>
 	</div>
+	<div id="landingpagetext">
+	Queen’s Hospitality & Tourism Club
 	</div>
-
-	<div class="row content">
-		<div class="col-lg-12 homepagetitle">
-			Welcome to QHTC
-			<hr class="hr">
-		</div>
-	</div>
-
-	<div class="row footer">
-
 	</div>
 
 	

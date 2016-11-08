@@ -4,7 +4,7 @@
 <meta charset = "UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content = "width=device-width, initial-scale = 1">
-<title>QHTC - Resources</title>
+<title>QHTC - Sponsorship</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="assets/css/QHTCcss.css"/>
@@ -33,9 +33,10 @@
             <div class="collapse navbar-collapse navHeaderCollapse">
                 <ul class="nav navbar-nav navbar-right">
                    	<li><a href="about.php" class="navbutton hvr-underline-from-center" id="button1" >About</a></li>
-                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button2">Events</a></li>
-                    <li><a href="resources.php" class="navbutton hvr-underline-from-center" id="button3">Resources</a></li>
-                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button4">Contact</a></li>
+                   	<li><a href="team.php" class="navbutton hvr-underline-from-center" id="button2" >Our Team</a></li>
+                    <li><a href="events.php" class="navbutton hvr-underline-from-center" id="button3">Events</a></li>
+                    <li><a href="sponsorship.php" class="navbutton hvr-underline-from-center" id="button4">Sponsorship</a></li>
+                    <li><a href="contact.php" class="navbutton hvr-underline-from-center" id="button5">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -44,7 +45,7 @@
 
 	<div class="row content">
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 title">
-			Resources
+			Sponsorship
 			<hr class="hr">
 		</div>
 	</div>
