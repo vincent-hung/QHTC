@@ -46,6 +46,60 @@
 	</div>
 	</div>
 
+	<div class="row indexcontent">
+
+		<div class="row">
+			<div class="col-lg-12 qhtcmessage">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-s-10 col-s-offset-1 qhtcmessageinner text-center">
+					QHTC welcomes students from diverse academic backgrounds and we strive to create a welcoming community amongst students.
+					<div class="text-center" style="margin-top:20px;">
+					We’re always looking forward to meeting new faces from all faculties!
+					</div>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+
+
+		<div class="col-lg-10 col-lg-offset-1 col-md-12">
+		<hr class="hrred">
+			<div class="row">
+				<div class="col-lg-4 col-md-4">
+  					<div class="panel">
+  						<div class="panel-heading text-center" style="font-family: 'Oswald', sans-serif; color:#070C57; font-size:35px;">About</div>
+  						<hr class="hrshort">
+    					<div class="panel-body text-center"><img src="assets/img/aboutimg.jpg" class="indeximg"></div>
+    					<div class="panel-body"><p>Find out more about the team.</p></div>
+  					</div>
+  				</div>
+  				<div class="col-lg-4 col-md-4">
+  					<div class="panel">
+  						<div class="panel-heading text-center" style="font-family: 'Oswald', sans-serif; color:#070C57; font-size:35px;">Events</div>
+  						<hr class="hrshort">
+    					<div class="panel-body text-center"><img src="assets/img/eventsimg.jpeg" class="indeximg""></div>
+    					<div class="panel-body"><p>Check out our upcoming events.</p></div>
+  					</div>
+  				</div>
+  				<div class="col-lg-4 col-md-4">
+  					<div class="panel">
+  						<div class="panel-heading text-center" style="font-family: 'Oswald', sans-serif; color:#070C57; font-size:35px;">Contact</div>
+  						<hr class="hrshort">
+    					<div class="panel-body text-center"><img src="assets/img/contactimg.jpg" class="indeximg"></div>
+    					<div class="panel-body"><p>Get in contact with us.</p></div>
+  					</div>
+  				</div>
+			</div>
+		<hr class="hrred">
+		</div>
+	</div>
+
+	<div class="row footer">
+
+	</div>
+
 	
 </div>
 </body>

@@ -46,6 +46,7 @@
 	<div class="row content">
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 title">
 			Events
+			<hr class="hr">
 		</div>
 	</div>
 
