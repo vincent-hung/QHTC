@@ -51,21 +51,37 @@
 
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2">
 			Team
-			President: Cindy NIe
-			VP Finance: Lucy Li
-			VP Public Relations: Sabrina Leung
-			Sponsorship Coordinators: Iris Zhang, Hannah Wei & Zooni Khosla
-			Events Coordinators: Rupinderjit Cheema, Karoline Sarah Wang &  Claire Currie 
-			Promotions Coordinators: Andy Tran, Yan Wu & Irene Cen
-			Logistics Coordinators: Christopher Zhao & Evgeny Kim
-			IT Coordinators: Carmen Louie 
+			<p>
+			President: Cindy Nie<br>
+			VP Finance: Lucy Li<br>
+			VP Public Relations: Sabrina Leung<br>
+			Sponsorship Coordinators: Iris Zhang, Hannah Wei & Zooni Khosla<br>
+			Events Coordinators: Rupinderjit Cheema, Karoline Sarah Wang & Claire Currie <br>
+			Promotions Coordinators: Andy Tran, Yan Wu & Irene Cen<br>
+			Logistics Coordinators: Christopher Zhao & Evgeny Kim<br>
+			IT Coordinators: Carmen Louie <br>
 			NOTE: EXECS PHOTOS WILL BE UPLOADED SOON 
+			</p>
 		</div>
 
 	</div>
 
 	<div class="row footer">
 
+		<div class = "col-md-4 col-md-offset-1">
+		<img src="assets/img/QHTCTransLogo.png" alt="tranparent logo" width="150" height="100">
+		</div>
+
+		<div class = "col-md-4 ">
+			<h3>Links</h3>
+			<ul>
+				<li><a href="about.php">About</a></li>
+            	<li><a href="team.php">Our Team</a></li>
+        		<li><a href="events.php">Events</a></li>
+   		    	<li><a href="sponsorship.php">Sponsorship</a></li>
+     	   		<li><a href="contact.php">Contact</a></li>
+   			</ul>
+		</div>
 	</div>
 
 	

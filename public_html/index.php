@@ -98,7 +98,21 @@
 
 	<div class="row footer">
 
-	</div>
+    <div class = "col-md-4 col-md-offset-1">
+    <img src="assets/img/QHTCTransLogo.png" alt="tranparent logo" width="150" height="100">
+    </div>
+
+    <div class = "col-md-4 ">
+      <h3>Links</h3>
+      <ul>
+        <li><a href="about.php">About</a></li>
+              <li><a href="team.php">Our Team</a></li>
+            <li><a href="events.php">Events</a></li>
+            <li><a href="sponsorship.php">Sponsorship</a></li>
+            <li><a href="contact.php">Contact</a></li>
+        </ul>
+    </div>
+  </div>
 
 	
 </div>

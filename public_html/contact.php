@@ -50,20 +50,49 @@
 		</div>
 
 		<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2">
-		Get In Touch
-		Email: 
+		<p>Get In Touch</p>
+
+		<p>
+		Email: <br>
 		hospitalitytourism@clubs.queensu.ca
-		Find Us On Facebook: 
-		https://www.facebook.com/QHTClub/
-		Location: *Insert Map*
-		Goodes Hall 
-		143 Union Street West
+		</p>
+
+		<p>
+		Find Us On Facebook: <br>
+		<a href="https://www.facebook.com/QHTClub/">
+		https://www.facebook.com/QHTClub/</a>
+		</p>
+
+		<p>
+		Location: <br>
+		Goodes Hall <br>
+		143 Union Street West<br>
 		Kingston, ON K7L 2P3
+		</p>
+
+		<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:440px;width:700px;'><div id='gmap_canvas' style='height:440px;width:700px;'></div><div><small><a href="http://embedgooglemaps.com">embed google maps</a></small></div><div><small><a href="https://freedirectorysubmissionsites.com/">top 10</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(44.2282448,-76.4975804),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(44.2282448,-76.4975804)});infowindow = new google.maps.InfoWindow({content:'<strong>Queen’s Hospitality & Tourism Club</strong><br>Goodes Hall 143 Union Street West Kingston, ON K7L 2P3<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
+		<br><br>
 		</div>
+
 	</div>
 
 	<div class="row footer">
 
+		<div class = "col-md-4 col-md-offset-1">
+		<img src="assets/img/QHTCTransLogo.png" alt="tranparent logo" width="150" height="100">
+		</div>
+
+		<div class = "col-md-4 ">
+			<h3>Links</h3>
+			<ul>
+				<li><a href="about.php">About</a></li>
+            	<li><a href="team.php">Our Team</a></li>
+        		<li><a href="events.php">Events</a></li>
+   		    	<li><a href="sponsorship.php">Sponsorship</a></li>
+     	   		<li><a href="contact.php">Contact</a></li>
+   			</ul>
+		</div>
 	</div>
 
 	
