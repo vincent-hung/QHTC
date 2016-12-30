@@ -95,8 +95,17 @@ body{
 }
 
 .footer{
-	 height:28vh;
 	 background-color:#800000;
+	 color:#ffffff;
+}
+
+.footer li{
+ 	list-style-type: none;
+}
+
+.footer a{
+	color:#ffffff;
+	text-decoration: none;
 }
 
 .landingpagecontent{
